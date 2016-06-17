@@ -23,7 +23,5 @@ class TestRoom < Minitest::Test
       assert_equal(7, @room2.guests)
   end 
 
-
-
 end
 
