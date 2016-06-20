@@ -12,7 +12,7 @@ class Songs < Minitest::Test
     @song5 = Song.new("Sam Cooke", "Wonderful World")
     @song6 = Song.new("James Brown", "The Payback")
     @song7 = Song.new("Etta James", "At Last")
-    @song8 = Song.new("Dusty Springfield", " Son of a Preacher Man")
+    @song8 = Song.new("Dusty Springfield", "Son of a Preacher Man")
     @song9 = Song.new("Marvin Gaye", "Sexual Healing")
   end
 
